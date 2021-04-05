@@ -17,7 +17,7 @@
 
 _And other times I type like this_
 
-~~Every so often I make mistakes ~~
+~~Every so often I make mistakes~~
 
 My professor always says
 >Know your cli commands
